@@ -54,3 +54,13 @@ Paso 26. "git switch main" para cambiar a la rama main.
 
 Paso 27. "git merge nueva_rama" para fusionar la rama secundaria con main.
 
+Paso 28. "git push" para actualizar el repositorio remoto y sincronizar todo.
+
+Paso 29. Hacer capturas de pantalla y añadirlas a la carpeta "manuals".
+
+Paso 30. "git add -A" para guardar los cambios.
+
+Paso 31. "git commit -m "Mensaje añadir capturas".
+
+Paso 32. "git push" para actualizar el repositorio remoto.
+
